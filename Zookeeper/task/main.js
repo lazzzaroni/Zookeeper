@@ -122,11 +122,11 @@ Switching on the camera in the rabbit habitat...
 It looks like we will soon have more rabbits!`;
 
 habitat = [ camel, lion, deer, goose, bat, rabbit ];
-propmt = input("Which habitat # do you need?");
+propmt = input("Which habitat # do you need?\n");
 
 do {
    console.log(habitat[propmt]);
-   propmt = input("Which habitat # do you need?");
+   propmt = input("Which habitat # do you need?\n");
 } while (propmt !== 'exit');
 
 console.log("See you later!");
