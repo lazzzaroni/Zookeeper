@@ -1,7 +1,7 @@
 # Zookeeper
 Project from 'JavaScript for Beginners' course by Hyperskill
 
-##What I've learned
+## What I've learned
 - using backticks and why & when should we use it;
 - handle `do...while` loop.
 
